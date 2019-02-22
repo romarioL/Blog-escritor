@@ -1,0 +1,21 @@
+
+body {
+	background-color: #f5f5f5;
+}
+.nav-wrapper {
+	box-shadow: none;
+}
+
+.navigation {
+	background-image: url(../img/01.jpg);
+	height: 450px;
+}
+
+
+.blog-section {
+	margin-top: 40px;
+}
+
+.contact-link {
+	padding: 15px;
+}
